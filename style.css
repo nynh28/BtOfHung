@@ -1,0 +1,47 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+.text-1{
+    display: flex;
+}
+.text-1-unik{
+    font-size: 26px;
+    font-weight: 700;
+    color: brown;
+}
+.text-1-gate{
+    font-size: 26px;
+    font-weight: 700;
+    color: black;
+}
+.home{
+    display: flex;
+}
+.ex-3{
+    /* position: -webkit-sticky; */
+    position: sticky;
+    top:0;
+    height: 50px;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: darksalmon;
+}
+.task-bar{
+    display: flex;
+    margin-right: 20px;
+
+}
+.text-2{
+    color: #ffffff;
+    font-size: 20px;
+    font-weight: 600;
+    margin-right: 15px;
+
+}
+.ex-2{
+    text-align: center;
+    background-color: aquamarine;
+}
